@@ -43,10 +43,10 @@
 - Python, PyTorch, HuggingFace
 - Machine Learning / Deep Learning
 - 데이터 분석 및 시각화
-- Git, Linux
+- Git
 
 ---
 
 ## 📫 연락처
 - GitHub: https://github.com/Yeon0713
-- Email: (학교 이메일 또는 개인 이메일)
+- Email: a01023438496@gmail.com
