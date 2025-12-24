@@ -27,7 +27,7 @@
 - LLM + TTS + 캐릭터 제어를 결합한 멀티모달 AI 시스템
 - 실시간 상호작용이 가능한 파이프라인 설계 및 구현
 
-### 📊 LG AImers 7기
+### 📊 LG Aimers 7기(Demand Forecasting)
 - 식음업장 오프라인 수요 예측 모델 개발
 - CatBoost 기반 회귀 모델 활용
 - 오프라인 해커톤 진출
