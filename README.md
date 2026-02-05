@@ -35,15 +35,16 @@
 ---
 
 ## 🏆 수상
+- 아마존웹서비스즈코아 공공부문 **최우수상**
 - 춘천시 탄탄대로 창업경진대회 **우수상**
 
 ---
 
 ## 🛠 사용 기술
-- Python, PyTorch, HuggingFace
+- Python, PyTorch, Flutter, FASTAPI, SQLite
 - Machine Learning / Deep Learning
-- 데이터 분석 및 시각화
-- Git
+- Data Analysis & Visualization
+- Git, AWS, HuggingFace
 
 ---
 
