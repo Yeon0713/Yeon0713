@@ -2,6 +2,7 @@
 
 강원대학교 재학 중인 학부연구생으로,  
 **BioAI / Medical AI / Generative Model(Diffusion, Flow Matching)** 분야에 관심을 가지고 있습니다.
+
 현재 강원대학교 Biomedical Data Science Lab(BDS Lab)에 소속되어있습니다.
 
 산업 문제를 해결하는 AI 경험을 바탕으로,  
