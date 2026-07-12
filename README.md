@@ -1,17 +1,18 @@
 # 안녕하세요, 윤여헌입니다 👋
 
-강원대학교 재학 중인 학부생으로,  
-**BioAI / Medical AI / 유전체 언어모델(Genomic Language Model)** 분야에 관심을 가지고 있습니다.
+강원대학교 재학 중인 학부연구생으로,  
+**BioAI / Medical AI / Generative Model(Diffusion, Flow Matching)** 분야에 관심을 가지고 있습니다.
+현재 강원대학교 Biomedical Data Science Lab(BDS Lab)에 소속되어있습니다.
 
 산업 문제를 해결하는 AI 경험을 바탕으로,  
-현재는 **유전체 데이터 기반 변이 민감도 분석**과 같은 BioAI 연구로 관심을 확장하고 있습니다.
+현재는 **항체 생성 모델**과 같은 BioAI 연구로 관심을 확장하고 있습니다.
 
 ---
 
 ## 🔬 관심 연구 분야
 - BioAI / Medical AI
 - Genomic Language Models (gLM)
-- 유전체 변이 효과 및 민감도 분석
+- Diffusion/Flow Matching 기반 항체 생성 모델
 - AI 기반 의료·생명 데이터 해석
 
 ---
@@ -38,6 +39,7 @@
 - **AWS Healthcare AI** 교육과정 수료 (2026)
 - **Agentic Workflow Hackathon** 수료 (2025)
 - **LG Aimers 7기** 수료 (2025)
+- **LG Aimers 8기** 수료 (2026)
   
 ---
 
@@ -48,7 +50,7 @@
 ---
 
 ## 🛠 사용 기술
-- Python, PyTorch, Flutter, FASTAPI, SQLite
+- Python, PyTorch
 - Machine Learning / Deep Learning
 - Data Analysis & Visualization
 - Git, AWS, HuggingFace
