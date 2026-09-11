@@ -13,6 +13,7 @@
 ## 🔬 관심 연구 분야
 - BioAI / Medical AI
 - Genomic Language Models (gLM)
+- Protein Language Models (PLM)
 - Diffusion/Flow Matching 기반 항체 생성 모델
 - AI 기반 의료·생명 데이터 해석
 
@@ -53,6 +54,7 @@
 ## 🛠 사용 기술
 - Python, PyTorch
 - Machine Learning / Deep Learning
+- Diffusion / Flow Matching
 - Data Analysis & Visualization
 - Git, AWS, HuggingFace
 
