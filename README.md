@@ -1,4 +1,4 @@
-# 안녕하세요, 윤여헌입니다 👋
+# 안녕하세요, 윤여헌입니다 
 
 강원대학교 재학 중인 학부연구생으로,  
 **BioAI / Medical AI / Generative Model(Diffusion, Flow Matching)** 분야에 관심을 가지고 있습니다.
