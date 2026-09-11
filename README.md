@@ -41,7 +41,7 @@
 * 진료지침을 코드로 옮긴 임상 규칙 도구 + 5단계 협업 LLM 에이전트 파이프라인
   (정리자 → 임상추론자 → 검사자/변호자 병렬 토론 → 종합판정자 → 안내자)
 * 보조 실험: CTGAN·TVAE·LLM 등 7가지 합성 데이터 생성 방법 비교
-* AWS Bedrock, LangGraph, Python
+* AWS Bedrock, LangGraph
 
 ---
 
